@@ -1,4 +1,4 @@
-colorscheme asmanian_blood 
+"colorscheme asmanian_blood 
 execute pathogen#infect()
 
 " NerdTree
@@ -14,6 +14,7 @@ set number  " turn on line numbers
 set scrolloff=5 " always have some lines of text when scrolling
 set showmatch " show matching braces and brackets
 set history=0 " disable our search history
+set background=dark
 
 set nocompatible                " choose no compatibility with legacy vi
 syntax enable
