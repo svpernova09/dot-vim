@@ -1,3 +1,5 @@
+# This project is depreciated. It is no longer maintained and should only be used for reference.
+
 # dot-vim
 
 My vim config files
